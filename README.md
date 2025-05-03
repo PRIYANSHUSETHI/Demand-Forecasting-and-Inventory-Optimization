@@ -109,14 +109,3 @@ You can:
 - Export PDF reports summarizing forecast + inventory strategy
 - Add database integration for large-scale SKU handling
 
----
-
-## 🙌 Author
-
-Made with ❤️ by [Your Name]
-
----
-
-## 📜 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
